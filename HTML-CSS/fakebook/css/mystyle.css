@@ -1,0 +1,23 @@
+html {
+    display: table;
+    margin: auto;
+    background-color: darkgrey;
+}
+
+body {
+    vertical-align: middle;
+    border-spacing: 20px;
+    border-style: dotted;
+    border-color: darkslateblue;
+    width: 100%;
+    height: 100%;
+    margin: 20px; /* Space from this element (entire page) and others*/
+    padding: 20px; /*space from content and border*/
+    border-width:thick;
+}
+
+#one{  /* 1st paragraph */
+    font-family: 'Impact';
+    color: darkslateblue;
+    font-size: 15px;
+}
